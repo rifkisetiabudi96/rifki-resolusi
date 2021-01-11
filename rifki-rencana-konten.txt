@@ -1,5 +1,7 @@
 Rencana Konten Rifki
 - Javascript
+  * ES6
+  * Framework JS
 - PHP Frameworks
 - Interview
 - Vlogs
